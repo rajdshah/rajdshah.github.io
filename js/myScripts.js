@@ -20,7 +20,7 @@ $(document).ready(function() {
     $(".fancy_title").lettering();
 
     $('#imgpro').click(function() {
-      $("#imgpro").attr("src","img/profile.JPG");
+      $("#imgpro").attr("src","img/profile.jpg");
     });
 });
 
